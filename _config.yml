@@ -14,15 +14,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Empty Words
+author: costajob
 email: costajob@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
         empty words make noisy echo
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: agilestyle
+permalink: /:categories/:title/
 github_username:  costajob
 linkedin_username: michelecosta
-permalink: /:categories/:title/
+instagram_username: agilestyle73
 
 # Build settings
 markdown: kramdown
