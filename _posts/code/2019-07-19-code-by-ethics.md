@@ -1,8 +1,8 @@
 ---
-layout:   page
-title:    "Code by ethics"
-date:     2019-07-19 09:41:33 +0200
-category: code
+layout:     page
+title:      "Code by ethics"
+date:       2019-07-19 09:41:33 +0200
+categories: code
 ---
 
 When I started coding back in 1998 I was not aware of the impact my work could have had on others or, to be fair, I didn’t care at all.
