@@ -1,5 +1,5 @@
 ---
-layout:     page
+layout:     post
 title:      "Fullstack"
 date:       2018-06-22 09:41:33 +0200
 categories: code

@@ -1,5 +1,5 @@
 ---
-layout:     page
+layout:     post
 title:      "The Architect"
 date:       2018-07-11 09:41:33 +0200
 categories: code

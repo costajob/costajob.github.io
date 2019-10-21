@@ -1,5 +1,5 @@
 ---
-layout:     page
+layout:     post
 title:      "Code by ethics"
 date:       2019-07-19 09:41:33 +0200
 categories: code

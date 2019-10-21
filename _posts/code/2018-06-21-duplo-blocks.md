@@ -1,5 +1,5 @@
 ---
-layout:     page
+layout:     post
 title:      "Duplo Blocks"
 date:       2018-06-21 09:41:33 +0200
 categories: code
