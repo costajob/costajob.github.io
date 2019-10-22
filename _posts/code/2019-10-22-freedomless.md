@@ -21,6 +21,6 @@ What about migrating from one cloud platform to another?
 Well, if you have separated your business logic from your deployment model it "should" be easy.  
 The hard part is recognizing business logic from all of the rest: looking at a project's codebase you can immediately understand which cloud vendor an application is coupled with, barely you can tell what it does.
 
-The freedom to introduce new solutions later in the application lifecycle and control external dependencies footprint are all gone. If you are lucky enough a new version of the cloud APIs will suit your problems, after all, they know better than you how things get done.
+The option to introduce new solutions later in the application lifecycle and control external dependencies footprint are all gone. If you are lucky enough a new version of the cloud APIs will suit your problems, after all, they know better than you how things get done.
 
 Just relax on the seat and let the auto pilot drive you back home: no traffic jam, no incidents, no thrills, no freedom.
