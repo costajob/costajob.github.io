@@ -21,4 +21,4 @@ Some years ago, when i decided to delve into object oriented design, i just disc
 
 The point is: fullstack roles make sense for small startups, where you code side by side with the founders (as i did), but corporates asking for fullstack are nonesense.
 
-Bear with me, every programmer should know a little bit of HTML/CSS and DOM scripting, but a professional should focus on one topic (as big as programming) in order to be effective.
+Bear with me, every programmer should know a little bit of HTML/CSS and DOM scripting, but a professional should focus on one topic (as big as programming) in order to be really effective.

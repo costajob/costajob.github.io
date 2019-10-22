@@ -5,7 +5,7 @@ date:       2019-07-19 09:41:33 +0200
 categories: code
 ---
 
-When I started coding back in 1998 I was not aware of the impact my work could have had on others or, to be fair, I didn’t care at all.
+When I started coding back in 1998 I was not aware of the impact my work could have had on others or, to be fair, I didn't care at all.
 
 I just limited getting pleasure by assembling some graphic in Photoshop/HTML and publishing the stuff on the Web.
 
@@ -19,7 +19,7 @@ At some point I realized I held a responsibility for my job, well you always do,
 
 Few months ago I was contacted for a position within a big corporation. I diligently passed all of their recruiting process and get a generous offer by them. I was at a turning point of my career: earning more money, boost my resume, the future seemed bright.
 
-But it wasn’t.
+But it wasn't.
 
 I had a feeling of being trapped in a corner and started questioning on the root cause. The corporation is one of the biggest on earth, they sell everything to everyone, they get bigger every year. My contribution would let them getting bigger and selling more stuff.
 
