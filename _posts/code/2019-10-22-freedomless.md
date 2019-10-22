@@ -22,4 +22,4 @@ The hard part is recognizing business logic from all of the rest: looking at a p
 
 The freedom to introduce new solutions later in the application lifecycle and control external dependencies footprint are all gone. If you are lucky enough a new version of the cloud APIs will suit your problems, after all, they know better than you how things get done.
 
-Just let the auto pilot drive you back home and relax on the seat: no traffic jam, no incidents, no thrills, no freedom.
+Just relax on the seat and let the auto pilot drive you back home: no traffic jam, no incidents, no thrills, no freedom.
