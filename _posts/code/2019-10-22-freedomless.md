@@ -5,7 +5,7 @@ date:       2019-10-22 09:41:33 +0200
 categories: code
 ---
 
-It was 2004 that I first heard about the first cloud service. At that time I worked for a small web agency, where we are used to host applications on our own servers (automation was a vague word).
+It was 2004 when I first heard about the first cloud service. At that time I worked for a small web agency, where we are used to host applications on our own servers (automation was a vague word).
 
 Google has just recently started offering its search algorithm, initially appearing as a powered-by logo behind the Yahoo one. Few socials exist at that time (MySpace) and video streaming do require a flash plugin or, if you were unfortunate, a Java applet.  The rest is history.
 
