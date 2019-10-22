@@ -11,7 +11,7 @@ Google has just recently started offering its search algorithm, initially appear
 
 Today it's rare your site is hosted by a physical server, more probably it runs within a container that will be destroyed upon HTTP response consumption. Data flows in gigabytes per second, persisted forever in the cloud. 
 
-Serverless is becoming mainstream, promising small infrastructure costs and offering macro-blocks architectural patterns. Developers can forgive about security, persistence, scalability, communication layers: all is already there, just wrap a fragment of your business logic within a function and drop it in the cloud.
+Serverless is becoming mainstream, promising small infrastructure costs and offering macro-blocks architectural patterns. Developers can forgive about security, scalability and communication layers: all is already there, just wrap a fragment of your business logic within a function and drop it in the cloud.
 
 Artificial intelligence can be plugged into your system by the ease of a click, no worries about the data on which these models are trained, they already have them. Haven't you already agreed?
 
