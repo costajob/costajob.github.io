@@ -17,7 +17,8 @@ Artificial intelligence can be plugged into your system by the ease of a click, 
 
 Everything is available, scalable and tangled to the cloud.
 
-What about migrating from one cloud service to another? Well, if you have separated your business logic from your deployment model it "should" be easy.  
+What about migrating from one cloud service to another?  
+Well, if you have separated your business logic from your deployment model it "should" be easy.  
 The hard part is recognizing business logic from all of the rest: looking at a project's codebase you can immediately understand which cloud service an application is coupled with, barely you can tell what it does.
 
 The freedom to introduce new solutions later in the application lifecycle and control external dependencies footprint are all gone. If you are lucky enough a new version of the cloud APIs will suit your problems, after all, they know better than you how things get done.
