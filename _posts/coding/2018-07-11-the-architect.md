@@ -2,7 +2,7 @@
 layout:     post
 title:      "The Architect"
 date:       2018-07-11 09:41:33 +0200
-categories: code
+categories: coding
 ---
 
 Back in 2008 i remember being honoured by my company with the appellative of software architect.
