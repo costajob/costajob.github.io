@@ -18,4 +18,4 @@ tutto il tempo che ho sprecato
 combattendo cause perse   
 senza attendere un ritorno   
 riconto le ferite aperte   
-al finire del giorno
+sul finire del giorno
