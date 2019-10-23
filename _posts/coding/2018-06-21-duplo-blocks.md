@@ -21,6 +21,6 @@ Like with Duplo you just need to grab the right macro-block, like the protocol a
 
 While the benefits of this is obviously clear (at least for a consultancy), it is a concept i always struggled with as a programmer: you do not need a Java developer (if a developer at all), to deploy a working Mule instance, you just need a product expert.
 
-I'd like experts start considering that Duplo blocks are indeed build on smaller ones: the awareness you have much more freedom by using with micro-blocks is liberating, but at the same time leave you on your own technical skills.
+I'd like experts start considering that Duplo blocks are indeed build on smaller ones: this awareness is quite liberating, although leave you hungry for more.
 
 At the end, this is what programming is all about.
