@@ -7,7 +7,7 @@ redirect_from:
   - /code/freedomless/
 ---
 
-It was 2004 when I first heard about "the cloud". At that time I worked for a small web agency, where we are used to host applications on our own servers and automation was an vague word.
+It was 2003 when I first heard about "the cloud". At that time I worked for a small web agency, where we are used to host applications on our own servers and automation was an vague word.
 
 Google has just recently started offering its search algorithm, initially appearing as a "powered-by" logo behind the Yahoo one. Few socials exist at that time (who remember MySpace?) and video streaming do require a flash plugin or, if you were unfortunate, a Java applet.   
 
