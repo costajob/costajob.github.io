@@ -9,7 +9,7 @@ redirect_from:
 
 It was 2003 when I first heard about "the cloud". At that time I worked for a small web agency, where we are used to host applications on our own servers and automation was an vague word.
 
-Google has just recently started offering its search algorithm, initially appearing as a "powered-by" logo behind the Yahoo one. Few socials exist at that time (who remember MySpace?) and video streaming do require a flash plugin or, if you were unfortunate, a Java applet.   
+Google has just recently started offering its search algorithm, initially appearing as a "powered-by" logo behind the Yahoo one. Few socials exist at that time and video streaming do require a flash plugin or, if you were unfortunate, a Java applet.   
 
 The rest is history.
 
@@ -26,6 +26,6 @@ Well, if you have separated your business logic from your deployment model it "s
 The hard part is recognizing business logic from all of the rest: looking at project codebase you can immediately spot which cloud vendor the application is coupled with, but barely you can tell what it does.
 
 The option to introduce new solutions later in the application lifecycle and control external dependencies footprint are gone.  
-If you are lucky enough a new version of the cloud APIs will suit your problems, after all, they know better than you how things get done (don't they?).
+If you are lucky enough a new version of the cloud APIs will suit your problems, after all, they know better than you how things get done.
 
-Just relax on the seat and let the auto pilot drive you back home: no traffic jam, no incidents, no thrills, no freedom.
+Just relax on the seat and let the auto-pilot drive you back home: no traffic jam, no incidents, no thrills, no freedom.
