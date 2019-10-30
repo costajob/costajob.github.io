@@ -5,7 +5,7 @@ permalink: /
 
 My name is Mike.
 
-If you land to this site from LinkedIn, you're probably looking for one of my coding [posts](https://costajob.github.io/code/).
+If you land to this site from LinkedIn, you're probably looking for one of my coding [posts](https://costajob.github.io/coding/).
 
 Feel free to disagree with me (i enjoy that), since all of the content you'll read are pretty opinionated.
 
