@@ -22,10 +22,10 @@ Artificial intelligence can be plugged into your system by the ease of a click, 
 Everything is available, scalable and tangled to the cloud.
 
 What about migrating from one cloud platform to another?  
-Well, if you have separated your business logic from your deployment model it "should" be easy.  
-The hard part is recognizing business logic from all of the rest: looking at project codebase you can immediately spot which cloud vendor the application is coupled with, but barely you can tell what it does.
+Well, if you have separated your business logic from your deployment model it "should" be easy.  The hard part is recognizing the business logic from all of the rest: looking at project codebase you can immediately spot which cloud vendor the application is coupled with, but barely you can tell what it does.
 
-The option to introduce new solutions later in the application lifecycle and control external dependencies footprint are gone.  
-If you are lucky enough a new version of the cloud APIs will suit your problems, after all, they know better than you how things get done.
+The promise is to reduce costs by using only the resources you need. The reality is that price policies change constantly (AutoML anyone?) and costs dashboards are quite opaque tools.
+
+Gone are the options to introduce new custom components later in the system. If you are lucky enough a new shiny service will emerge to fulfill your needs, after all, they know better than you how things get done. 
 
 Just relax on the seat and let the auto-pilot drive you back home: no traffic jam, no incidents, no thrills, no freedom.
