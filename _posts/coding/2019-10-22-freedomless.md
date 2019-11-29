@@ -29,6 +29,4 @@ Probably your system will end up living within a multi-cloud environment, with s
 
 Gone are the options to introduce new components later in the architecture. If you are lucky enough a new shiny service will emerge to fulfill your needs, after all, they know better than you how things get done. 
 
-Everything is available, scalable and tangled to the cloud.
-
-Just relax on the seat and let the auto-pilot drive you back home: no traffic jam, no incidents, no thrills, no freedom.
+Everything is available, scalable and tangled to the cloud. Just relax on the seat and let the auto-pilot drive you back home: no traffic jam, no incidents, no thrills, no freedom.
