@@ -15,18 +15,19 @@ The rest is history.
 
 Today it's rare your application is hosted on a physical server, more probably it runs within a container that will be destroyed upon HTTP response consumption. Data flows in gigabytes per second, persisted forever in the cloud. 
 
-Serverless is becoming mainstream. Gone are the days when developers have to worry about about security, scalability and communication layers: just wrap a fragment of your business logic within a function and deploy it in the cloud.
+Serverless is becoming mainstream. Gone are the days when developers have to worry about security, scalability and communication layers: just wrap a fragment of your logic within a function and drop it in the cloud.
 
 Artificial intelligence can be plugged into your system by the ease of a click, no worries about the data on which these models are trained, they have them (haven't you already agreed?).
 
-The (broken) promise is to reduce costs by using only the resources you need, you can easily monitor your money flow on costs dashboards. No worries if price policies change at a constant pace (AutoML anyone?), at the end you can always contact your vendor asking for a discount, threatening to switch.
+The (broken) promise is to reduce costs by using only the resources you need, you can easily monitor your money flow on dedicated dashboards. No worries if price policies change at a constant pace (AutoML anyone?), at the end you can always contact your vendor asking for a discount, threatening to switch otherwise.
 
-What about migrating from one cloud platform to another?  
+But what about migrating from one cloud platform to another?  
 
-Well, if you have separated your business logic from your deployment model it *should* be easy.  The hard part is recognizing the business logic from all of the rest: looking at project codebase you can immediately spot which cloud vendor the application is coupled with, but barely you can tell what it does.
+Well, if you have separated your business logic from your deployment model it *should* be easy. The hard part is recognizing the business logic from all of the rest: looking at project codebase you can immediately spot which cloud vendor the application is coupled with, but barely you can tell what it does.
 
-Probably your system will end up living within a multi-cloud environment, with some services forever tangled to a vendor. Here's where multi-cloud-orchestrator tool enter the game.
+Probably your system will end up living within a multi-cloud environment, with some services forever tangled to a vendor. Here's where multi-cloud-orchestrator tools enter the game.
 
-Gone are the options to introduce new components later in the architecture. If you are lucky enough a new shiny service will emerge to fulfill your needs, after all, they know better than you how things get done. 
+You have no options to introduce new components later in the architecture. If you are lucky enough a new shiny service will emerge to fulfill your needs, after all, they know better than you how things get done. 
 
-Everything is available, scalable and tangled to the cloud. Just relax on the seat and let the auto-pilot drive you back home: no traffic jam, no incidents, no thrills, no freedom.
+Everything is available, scalable and tangled to the cloud.  
+Just relax on the seat and let the auto-pilot drive you back home: no traffic jam, no incidents, no thrills, no freedom.
