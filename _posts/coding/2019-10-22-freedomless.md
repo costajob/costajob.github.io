@@ -21,7 +21,7 @@ Artificial intelligence can be plugged into your system by the ease of a click, 
 
 The (broken) promise is to reduce costs by using only the resources you need, you can easily monitor your money flow on dedicated dashboards. No worries if price policies change at a constant pace (AutoML anyone?), at the end you can always contact your vendor asking for a discount, threatening to switch otherwise.
 
-But what about migrating from one cloud platform to another?  
+In this respect, what about migrating from one cloud platform to another?  
 
 Well, if you have separated your business logic from your deployment model it *should* be easy.  The hard part is recognizing the business logic from all of the rest: looking at project codebase you can immediately spot which cloud vendor the application is coupled with, barely you can tell what it does.
 
