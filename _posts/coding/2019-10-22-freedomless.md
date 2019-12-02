@@ -23,11 +23,10 @@ The (broken) promise is to reduce costs by using only the resources you need, yo
 
 But what about migrating from one cloud platform to another?  
 
-Well, if you have separated your business logic from your deployment model it *should* be easy. The hard part is recognizing the business logic from all of the rest: looking at project codebase you can immediately spot which cloud vendor the application is coupled with, but barely you can tell what it does.
+Well, if you have separated your business logic from your deployment model it *should* be easy.  The hard part is recognizing the business logic from all of the rest: looking at project codebase you can immediately spot which cloud vendor the application is coupled with, barely you can tell what it does.
 
-Probably your system will end up living within a multi-cloud environment, with some services forever tangled to a vendor. Here's where multi-cloud-orchestrator tools enter the game.
-
-You have no options to introduce new components later in the architecture. If you are lucky enough a new shiny service will emerge to fulfill your needs, after all, they know better than you how things get done. 
+Chances are that your system will end up living within a multi-cloud environment, with some services forever tangled to a vendor. Do not despair, you can opt for one of the multi-cloud-orchestrator tools out there and let it manage the mess.
 
 Everything is available, scalable and tangled to the cloud.  
+
 Just relax on the seat and let the auto-pilot drive you back home: no traffic jam, no incidents, no thrills, no freedom.
