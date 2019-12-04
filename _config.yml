@@ -14,10 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Empty Words
-author: costajob
-email: costajob@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-        empty words make noisy echoes
+description: empty words make noisy echoes
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:categories/:title/
@@ -30,10 +27,6 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-redirect-from
-
-whitelist:
-  - jekyll-redirect-from
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

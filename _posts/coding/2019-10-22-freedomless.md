@@ -3,8 +3,6 @@ layout:     post
 title:      "Freedomless"
 date:       2019-10-22 09:41:33 +0200
 categories: coding
-redirect_from:
-  - /code/freedomless/
 ---
 
 It was 2003 when I first heard about *the cloud*. At that time I worked for a small web agency, where we are used to host applications on our own servers and automation was a vague word.
