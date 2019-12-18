@@ -11,7 +11,7 @@ I just limited getting pleasure by assembling some graphic in Photoshop/HTML and
 
 When I created my first e-commerce sites, I continue to ignore the effects that coding could have on our society. I focused on getting a higher salary, occupying a better social position and switching motorcycle.
 
-It does not matter if my work contributed to help selling more Italian melodic music CDs, or let some nazi enthusiasts buying some heirloom of war at a local fair. I do code, just enjoying the process of it, no questions, no remorse, no ethics.
+It does not matter if my work contributed to help selling more Italian melodic music CDs, or let a bunch of nazi enthusiasts buying some heirloom of war at a local fair. I do code, just enjoying the process of it, no questions, no remorse, no ethics.
 
 I started adopting better coding methodologies much later than I wanted, pushed more by the urge of my ego, than by the necessity to reduce the pain on the users of my software. It ends out that the more I get better at coding, the more my job have impacts on other lives.
 
