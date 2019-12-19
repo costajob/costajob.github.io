@@ -14,7 +14,7 @@ At that time everyone was multi-tasking, things need to get done quickly and kno
 
 Back to the present.
 
-I am quitting a big consultancy corporate where i spent almost eight years of my career. I entered as an *architect*, worked as a service manager and finished the journey as a *plain* software developer.
+I am quitting a big consultancy corporate where i spent almost eight years of my career. I started as an *architect*, worked as a service manager and finished the journey as a *plain* software developer.
 
 The goods of consultancy is that you can change hats frequently, working with different customers, on different projects, in different industries.
 The main drawback is that you'll end up with being pretty good at everything, but excellent in nothing.
