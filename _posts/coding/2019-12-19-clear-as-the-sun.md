@@ -23,10 +23,11 @@ Coding is similar to writing prose. Your code tells a story, the way you'll writ
 
 I consider myself a polyglot programmer, nonetheless i just excel in few languages. Not all programming languages are the same, you know exactly once you'll grab your favorite, it's when your story flows like a stream.
 
-Indeed i was quite happy when a *big* consultancy company made me an offer. I liked the idea to work for a safe employer and upgrade my position on its organization chart.  This was part of the plan i was *suggested* to follow: get a solid job, earning more money, buying a house, get married, have children and living happily ever after.
+Indeed i was quite happy when a *big* consultancy company made me an offer. I liked the idea to work for a safe employer and upgrade my position on its organization chart.   
+This was part of the plan i was *suggested* to follow: get a solid job, earning more money, buying a house, get married, have children and living happily ever after.
 
 It was a broken plan, for me at least.
 
-That's why after almost fifteen years i am jumping back on a startup, trading power for freedom, ambition for creativity, safeness for thrills. 
+That's why after almost fifteen years i am jumping back on a startup. Trading power for freedom, ambition for creativity, safeness for thrills. 
 
 The future is quite uncertain, but clear as the sun as well.
