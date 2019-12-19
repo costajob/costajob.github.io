@@ -5,7 +5,7 @@ date:       2019-12-19 09:41:33 +0200
 categories: coding
 ---
 
-These are the last keystrokes on the keyboard of my corporate MacBook Pro.  
+These are the last keystrokes on my corporate's MacBook Pro.  
 Next week i will move to another company, another city, another life.
 
 I started my career back in 1998, with an internship as a web designer within a small agency. At the beginning we were few people, just the stakeholders and me.
