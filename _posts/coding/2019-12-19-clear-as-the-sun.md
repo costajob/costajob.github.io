@@ -19,7 +19,7 @@ I am quitting a big consultancy corporate where i spent almost eight years of my
 The goods of consultancy is that you can change hat frequently, working with different customers, on different projects, in different industries.
 The main drawback is that you'll end up with being pretty good at everything, but excellent in nothing.
 
-Coding is similar to writing prose. Your code tells a story, the way you'll write it has impacts both on editors, publishers and readers.
+Coding is similar to writing prose: your code tells a story, the way you'll write it has impacts both on editors, publishers and readers.
 
 I consider myself a polyglot programmer, nonetheless i just excel in few languages. Not all programming languages are the same, you know exactly once you'll grab your favorite, since your story flows like a stream.
 
