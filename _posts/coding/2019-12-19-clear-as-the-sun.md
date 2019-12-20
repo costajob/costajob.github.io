@@ -21,7 +21,7 @@ The main drawback is that you'll end up with being pretty good at everything, bu
 
 Coding is similar to writing prose: your code tells a story, the way you'll write it has impacts both on editors, publishers and readers.
 
-I consider myself a polyglot programmer, nonetheless i just excel in few languages. Not all programming languages are the same, you know exactly once you'll grab your favorite, since your story flows like a stream.
+I consider myself a polyglot programmer, nonetheless i just excel in few languages. Not all programming languages are the same, you know exactly once you'll grab one that suits you, since your story flows like a stream.
 
 Indeed i was quite happy when a *big* consultancy company made me an offer. I liked the idea to work for a safe employer and upgrade my position on its organization chart.   
 
