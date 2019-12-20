@@ -8,7 +8,7 @@ categories: coding
 These are the last keystrokes on my corporate MacBook Pro.  
 Next week i will move to another company, another city, another life.
 
-I started my career back in 1998, with an internship as a web designer within a small agency. At the beginning we were few people, just the stakeholders and me.
+I started my career with an internship as a web designer within a small agency. At the beginning we were few people, just the stakeholders and me.
 
 At that time everyone was multi-tasking, things need to get done quickly and knowing how doing them was the exception. More often you have the opportunity to learn something new. It was challenging, quite stressing and incredibly exciting.
 
