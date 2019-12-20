@@ -23,4 +23,4 @@ incapaci di lenire
 la fatica di un percorso   
 da intraprendere isolati   
 ignorando il rimorso   
-per gli amori mancati 
+per gli incontri mancati 
