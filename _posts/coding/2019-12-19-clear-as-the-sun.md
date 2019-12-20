@@ -5,7 +5,7 @@ date:       2019-12-19 09:41:33 +0200
 categories: coding
 ---
 
-These are the last keystrokes on my corporate's MacBook Pro.  
+These are the last keystrokes on my corporate MacBook Pro.  
 Next week i will move to another company, another city, another life.
 
 I started my career back in 1998, with an internship as a web designer within a small agency. At the beginning we were few people, just the stakeholders and me.
@@ -25,7 +25,7 @@ I consider myself a polyglot programmer, nonetheless i just excel in few languag
 
 Indeed i was quite happy when a *big* consultancy company made me an offer. I liked the idea to work for a safe employer and upgrade my position on its organization chart.   
 
-This was part of the plan i was *suggested* to follow: getting a solid job, earning more money, buying a house, getting married, having children and living happily ever after.
+This was part of the plan i was *programmed* to follow: getting a solid job, earning more money, buying a house, getting married, having children and living happily ever after.
 
 It was a broken plan, for me at least.
 
