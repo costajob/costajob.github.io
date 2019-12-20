@@ -29,6 +29,6 @@ This was part of the plan i was *programmed* to follow: getting a solid job, ear
 
 It was a broken plan, for me at least.
 
-That's why after almost fifteen years i am jumping back on a startup. Trading power for freedom, ambition for creativity, safeness for thrills. 
+That's why after almost fifteen years i am jumping back on a startup, trading power for freedom, ambition for creativity, safeness for thrills. 
 
 The future is quite uncertain, but clear as the sun as well.
