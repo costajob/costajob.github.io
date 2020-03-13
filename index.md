@@ -9,4 +9,4 @@ If you've landed on this site from LinkedIn, you're probably looking for [coding
 
 Feel free to disagree with me (i enjoy that), since all of the content is pretty opinionated.
 
-Now and then i enjoy writing [rhymes](https://costajob.github.io/rhymes/) in my native language and writing down [thoughts](https://costajob.github.io/thoughts).
+Now and then i enjoy writing [rhymes](https://costajob.github.io/rhymes/) in my native language and spitting out [thoughts](https://costajob.github.io/thoughts).
