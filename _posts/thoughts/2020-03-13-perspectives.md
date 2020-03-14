@@ -9,13 +9,13 @@ I am currently segregated at home since two weeks now, following the indications
 
 Being alone, by my own, with few human interactions, it is not much different than the condition i typically live or aim for. Nonetheless it left me with more time to think, that's why these lines.
 
-I spare you the details of the virus, spread from China on November, with more than 150k known cases and 5k death toll worldwide at the time of this writing.
+I spare you the details of the virus: originated from China on November, with more than 150k known cases and 5k death toll worldwide at the time of this writing.
 
 Economy here in Italy has ground to a halt, the effects will be clear within few months. Other Western countries are preparing for the same doom.
 
 Our healthcare system is collapsing, unable to satisfy the need for mechanical ventilation, with doctors and nurses working at an unsustainable pace.
 
-People are nervous, scared by each other, walk by distance, and queuing in front of groceries and drugstores, the only open shops, is the norm. 
+People are nervous, scared by each other, walk at a distance, and get in line in front of groceries and drugstores, the only open shops. 
 
 Yesterday i was getting my fifteen minutes of fresh air, buying some food, while two guys grabbed my attention: they were hugged, smiling, dirty, homeless.
 
@@ -29,6 +29,6 @@ This virus is scaring just because it is now at our doors. We are promptly and r
 
 We'll return trusting each other, crowding parks on a sunny day, buying new shiny cars to create traffic jams with. Our economy will flourish again. 
 
-We'll also keep ignoring the ones that never cared about this virus, not because they are irresponsible or crazy, simply because they can't.
+We'll also keep ignoring the ones that never cared about this virus, not because they are irresponsible or crazy, but simply because they can't.
 
 At the end, it's just a matter of perspectives.
