@@ -5,13 +5,13 @@ date:       2020-03-13 21:08:33 +0200
 categories: thoughts
 ---
 
-I am currently self segregated at home since two weeks now, following the indications of the Italian government to limit the COVID-19 virus spreading.
+I am currently segregated at home since two weeks now, following the indications of the Italian government to limit the COVID-19 virus spreading.
 
 Being alone, by my own, with few human interactions, it is not much different than the condition i typically live or aim for. Nonetheless it left me with more time to think, that's why these lines.
 
 I spare you the details of the virus, spread from China on November, with more than 150k known cases and 5k death toll worldwide at the time of this writing.
 
-Economy here in Italy is halted to a grind, the effects will be clear within few months. Other Western countries are preparing for the same doom.
+Economy here in Italy has ground to a halt, the effects will be clear within few months. Other Western countries are preparing for the same doom.
 
 Our healthcare system is collapsing, unable to satisfy the need for mechanical ventilation, with doctors and nurses working at an unsustainable pace.
 
