@@ -9,7 +9,7 @@ I am currently segregated at home since two weeks now, following the indications
 
 Being alone, by my own, with few human interactions, it is not much different than the condition i typically live or aim for. Nonetheless it left me with more time to think, that's why these lines.
 
-I spare you the details of the virus: originated from China on November, with more than 150k known cases and 5k death toll worldwide at the time of this writing.
+I spare you the details of the virus, suffice to say it originated in China on November, with more than 150k known cases and 5k death toll worldwide at the time of this writing.
 
 Economy here in Italy has ground to a halt, the effects will be clear within few months. Other Western countries are preparing for the same doom.
 
@@ -27,7 +27,7 @@ I collected some fresh numbers in order to understand how many people are in the
 
 This virus is scaring just because it is now at our doors. We are promptly and rightly prepared to change our habits to stop the pandemic. At the end we'll raise again, the virus will be probably not stopped completely, but we'll be able to control its spreading.
 
-We'll come back to trust each other, to crowd parks on a sunny day, to buy new shiny cars in which getting stuck into a traffic jam. Our economy will flourish again. 
+We'll come back to trust each other, to crowd parks on sunny days, to buy new shiny cars into which getting stuck in a traffic jam. Our economy will flourish again. 
 
 We'll also keep ignoring the ones that never cared about this virus, not because they are irresponsible or crazy, but simply because they can't.
 
