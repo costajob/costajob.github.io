@@ -27,7 +27,7 @@ I collected some fresh numbers in order to understand how many people are in the
 
 This virus is scaring just because it is now at our doors. We are promptly and rightly prepared to change our habits to stop the pandemic. At the end we'll raise again, the virus will be probably not stopped completely, but we'll be able to control its spreading.
 
-We'll return trusting each other, crowding parks on a sunny day, buying new shiny cars to create traffic jams with. Our economy will flourish again. 
+We'll come back to trust each other, to crowd parks on a sunny day, to buy new shiny cars in which getting stuck into a traffic jam. Our economy will flourish again. 
 
 We'll also keep ignoring the ones that never cared about this virus, not because they are irresponsible or crazy, but simply because they can't.
 
