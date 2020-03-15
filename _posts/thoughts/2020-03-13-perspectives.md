@@ -21,7 +21,7 @@ Yesterday i was getting my fifteen minutes of fresh air, buying some food, while
 
 They do not care at all about the virus, simply it was not a priority for them.
 
-This make me think about the fact that this emergency is especially compelling for us, worried about our parents, upset by the restrictions imposed to our freedom, but has a completely different impact on who is threatened by death and misery every single day.
+Indeed this emergency is especially compelling for us, worried about our parents, upset by the restrictions imposed to our freedom, but has a completely different impact on who is threatened by death and misery every single day.
 
 I collected some fresh numbers in order to understand how many people are in the latter group. It is supposed that starvation affects one in eight people worldwide, causing about 25k human deaths per day.
 
