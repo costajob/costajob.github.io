@@ -25,7 +25,7 @@ Indeed this emergency is especially compelling for us, worried about our parents
 
 I collected some fresh numbers in order to understand how many people are in the latter group. It is supposed that starvation affects one in eight people worldwide, causing about 25k human deaths per day.
 
-This virus is scaring just because it is at our doors. We are promptly and rightly prepared to change our habits to stop the pandemic. At the end we'll raise again, the virus will be probably not stopped completely, but we'll be able to control its spreading.
+This virus is scaring just because it is at our doors. We are promptly and rightly prepared to change our habits to stop the pandemic. I am pretty sure we'll raise again, the virus will be probably not stopped completely, but we'll be able to control its spreading.
 
 We'll come back to trust each other, to crowd parks on sunny days, to buy new shiny cars into which getting stuck in a traffic jam. Our economy will flourish. 
 
