@@ -19,7 +19,7 @@ People are nervous, scared by each other, walk at a distance, and get in line in
 
 Yesterday i was getting my fifteen minutes of fresh air, buying some food, while two guys grabbed my attention: they were hugged, smiling, dirty, homeless.
 
-They do not care at all about the virus, simply it was not a priority for them.
+They do not care at all about the virus, it wasn't a priority for them.
 
 Indeed this emergency is especially compelling for us, worried about our parents, upset by the restrictions imposed to our freedom, but has a completely different impact on who is threatened by death and misery every single day.
 
