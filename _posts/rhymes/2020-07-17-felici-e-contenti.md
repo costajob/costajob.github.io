@@ -18,4 +18,4 @@ dal sapore melenso
 trangugiato in fretta  
 digrignando i denti  
 fine della favoletta   
-e visssero felici e contenti...
+e visssero felici e contenti
