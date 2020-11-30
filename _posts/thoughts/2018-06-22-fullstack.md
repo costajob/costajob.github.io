@@ -2,7 +2,7 @@
 layout:     post
 title:      "Fullstack"
 date:       2018-06-22 09:41:33 +0200
-categories: coding
+categories: thoughts
 ---
 
 I started my professional career back in 1998, after taking a course named Internet Multimedia Publishing.

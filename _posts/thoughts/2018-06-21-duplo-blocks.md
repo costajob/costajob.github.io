@@ -2,7 +2,7 @@
 layout:     post
 title:      "Duplo Blocks"
 date:       2018-06-29 09:41:33 +0200
-categories: coding
+categories: thoughts
 ---
 
 On these days i am helping to draw some high level (aka no coding) diagrams for the integration of several enterprise (the word scares me out each time) applications part of an e-commerce system.

@@ -2,7 +2,7 @@
 layout:     post
 title:      "Clear as the sun"
 date:       2019-12-19 09:41:33 +0200
-categories: coding
+categories: thoughts
 ---
 
 These are the last keystrokes on my corporate MacBook. Next week i will move to another company, another city, another life.
