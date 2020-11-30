@@ -31,4 +31,4 @@ We'll come back to trust each other, to crowd parks on sunny days, to buy new sh
 
 We'll also keep ignoring the ones that never cared about this virus, not because they are irresponsible or crazy, but simply because they can't.
 
-At the end, it's just a matter of perspectives.
+It's just a matter of perspectives.
