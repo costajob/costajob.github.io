@@ -17,5 +17,5 @@ tutto il tempo che ho sprecato
 
 combattendo cause perse   
 senza attendere un ritorno   
-riconto le ferite aperte   
+mi lecco le ferite aperte   
 sul finire del giorno
