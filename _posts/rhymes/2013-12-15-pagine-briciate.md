@@ -11,7 +11,7 @@ deformano una faccia smunta
 
 a cavallo di un destriero sferragliante   
 zigzagando agile   
-con quellr'aria incurante  
+con quell'aria incurante  
 
 di chi assiste allo spettacolo senza esserne attore   
 una nota sorda   
